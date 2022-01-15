@@ -19,9 +19,3 @@ class Road:
         print(asphalt_mass)
 
 test = Road(20, 5000).calculation()
-
-
-
-
-
-

@@ -66,9 +66,3 @@ car2 = TownCar(70, 'Black', 'Tram', False).show_speed()
 car3 = WorkCar(60, 'Green', 'Man', False).trailer()
 car4 = SportCar(110, 'Red', 'Camaro', False).nitro(20)
 car5 = PoliceCar(130, 'Blue', 'Ferrari', True).robocop()
-
-
-
-
-
-
